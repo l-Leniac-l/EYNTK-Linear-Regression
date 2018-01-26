@@ -1,2 +1,2 @@
-# WYNTK-Linear-Regression
-Everything you need to know about linear regression (English and Brazilian Portuguese)
+# Everything You need to know about Linear Regression
+[English Version](https://github.com/lnlwd/EYNTK-Linear-Regression/blob/master/EN.ipynb)
